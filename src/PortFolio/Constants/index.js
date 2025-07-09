@@ -36,7 +36,7 @@ export const Projects = [
       "A full-stack blog application with complete user authentication and rich content management system.",
     subdesc:
       "Built with React, React Router, Tailwind CSS, Framer Motion, and Appwrite backend. Features include: User authentication (login/logout/signup), image uploads, post creation with titles/slugs, rich text editing with TipTap editor, form handling with React Hook Form, notifications via Toastify, and CORS-enabled API integration. The platform uses HTML parsing for content rendering and React Icons for UI consistency.",
-    href: "https://your-blog-demo-link.com",
+    href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/Blog",
     image: "/Portfolio/assets/Blog.png",
     icon: "FaGithub",
     iconStyle: {
@@ -64,8 +64,8 @@ export const Projects = [
       "An advanced portfolio showcasing 3D elements and smooth animations with interactive design.",
     subdesc:
       "Developed using React, Spline for 3D assets, Three.js for 3D rendering, and enhanced with Framer Motion animations. Features include: Embla Carousel for project showcases, React Tilt for interactive elements, Tailwind CSS for responsive design, and React Icons for consistent iconography. The portfolio demonstrates modern web techniques with optimized performance.",
-    href: "https://your-portfolio-demo-link.com",
-    image: "/Portfolio/assets/kiet-group-of-institutions.jpg",
+    href: "https://github.com/TUSHARJHA001/PortFolio",
+    image: "/Portfolio/assets/Portfliosite.png",
     icon: "FaGithub",
     iconStyle: {
       color: "#38BDF8",
@@ -89,7 +89,7 @@ export const Projects = [
       "A dynamic and user-friendly weather application that provides real-time weather updates. It enables users to check current weather conditions based on their location or search for any city worldwide.",
     subdesc:
       "Built with HTML, Tailwind CSS, JavaScript, GSAP, and OpenWeather API, the Weather App delivers a smooth UI experience with animated transitions and real-time data fetching.",
-    href: "https://your-weather-app-demo-link.com",
+    href: "https://github.com/TUSHARJHA001/HTML-CSS-JS-minipro/tree/main/WeatherApp",
     image: "/Portfolio/assets/Weather.png",
     icon: "FaGithub",
     iconStyle: {
@@ -110,7 +110,7 @@ export const Projects = [
       "A simple yet powerful ToDo application with full CRUD operations and localStorage support.",
     subdesc:
       "Built using React.js and Tailwind CSS. It features a context-based state management system with `useContext`, persistent state through `localStorage`, and componentized architecture including form handling, item rendering, and inline editing with visual feedback. Users can add, edit, delete, and mark tasks as complete. The app provides a clean, responsive UI with conditional rendering for completed tasks and accessibility-focused design.",
-    href: "https://github.com/your-repo/todo-app",
+    href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/ToDo",
     image: "/Portfolio/assets/ToDo.png",
     icon: "FaGithub",
     iconStyle: {
@@ -132,7 +132,7 @@ export const Projects = [
       "TTS Translate App is an AI-powered tool that enables users to translate text into multiple languages and convert it into speech. It features text-to-speech (TTS) functionality with voice selection.",
     subdesc:
       "Built using HTML, Tailwind CSS, and JavaScript, this app leverages the Web Speech API for text-to-speech synthesis and an external API for language translation.",
-    href: "https://github.com/your-repo/tts-translate-app",
+    href: "https://github.com/TUSHARJHA001/HTML-CSS-JS-minipro/tree/main/TTS-TranslateApp",
     image: "/Portfolio/assets/Translate.png",
     icon: "FaGithub",
     iconStyle: {
@@ -153,7 +153,7 @@ export const Projects = [
       "Currency Convertor is a powerful web application that allows users to convert currencies in real-time. With up-to-date exchange rates, users can seamlessly swap between different currencies.",
     subdesc:
       "Built using React.js, Tailwind CSS, and the Exchange Rate API, this application ensures efficiency and ease of use for travelers, traders, and financial analysts.",
-    href: "https://github.com/your-repo/currency-convertor",
+    href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/CurrencyConvertor",
     image: "/Portfolio/assets/Currenycon.png",
     icon: "FaGithub",
     iconStyle: {
@@ -174,7 +174,7 @@ export const Projects = [
       "A powerful probability calculator for Honkai Star Rail gacha pulls. It helps players estimate their chances of obtaining a featured 5★ character based on their current resources.",
     subdesc:
       "Built using React.js and Tailwind CSS, this intuitive tool enables gacha gamers to plan their pulls efficiently by calculating probabilities and tracking their pity progress.",
-    href: "https://github.com/your-repo/gacha-calculator",
+    href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/GachaCalculator",
     image: "/Portfolio/assets/HonkaiCalc.png",
     icon: "FaGithub",
     iconStyle: {
@@ -195,7 +195,7 @@ export const Projects = [
       "A secure and customizable password generator with QR code functionality. Users can generate strong passwords with options for length, numbers, and special characters.",
     subdesc:
       "Built using React.js, TailwindCSS, GSAP animations, and QRCode support, this tool provides a visually appealing and efficient way to create and copy secure passwords.",
-    href: "https://github.com/your-repo/password-generator",
+    href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/PasswordGenerator",
     image: "/Portfolio/assets/Password.png",
     icon: "FaGithub",
     iconStyle: {
@@ -496,7 +496,7 @@ export const footerSocialLinks = [
   {
     icon: "FaTelegram",
     label: "Telegram",
-    href: "https://t.me/@Tushar_jha003",
+    href: "https://t.me/Tushar_jha003",
     color: "hover:text-sky-500",
   },
   {
