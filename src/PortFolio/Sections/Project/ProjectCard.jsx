@@ -35,6 +35,7 @@ const ProjectCard = ({
             src={image}
             alt={name}
             className="w-full h-full object-cover rounded-xl group-hover:opacity-80 transition-opacity"
+            loading="lazy"
           />
           <div className="absolute inset-0 flex justify-end m-3">
             <motion.div

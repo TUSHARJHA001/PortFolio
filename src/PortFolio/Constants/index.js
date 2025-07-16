@@ -37,7 +37,7 @@ export const Projects = [
     subdesc:
       "Built with React, React Router, Tailwind CSS, Framer Motion, and Appwrite backend. Features include: User authentication (login/logout/signup), image uploads, post creation with titles/slugs, rich text editing with TipTap editor, form handling with React Hook Form, notifications via Toastify, and CORS-enabled API integration. The platform uses HTML parsing for content rendering and React Icons for UI consistency.",
     href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/Blog",
-    image: "/Portfolio/assets/Blog.png",
+    image: "/Portfolio/assets/Blog.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#61DAFB",
@@ -65,7 +65,7 @@ export const Projects = [
     subdesc:
       "Developed using React, Spline for 3D assets, Three.js for 3D rendering, and enhanced with Framer Motion animations. Features include: Embla Carousel for project showcases, React Tilt for interactive elements, Tailwind CSS for responsive design, and React Icons for consistent iconography. The portfolio demonstrates modern web techniques with optimized performance.",
     href: "https://github.com/TUSHARJHA001/PortFolio",
-    image: "/Portfolio/assets/Portfliosite.png",
+    image: "/Portfolio/assets/Portfliosite.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#38BDF8",
@@ -90,7 +90,7 @@ export const Projects = [
     subdesc:
       "Built with HTML, Tailwind CSS, JavaScript, GSAP, and OpenWeather API, the Weather App delivers a smooth UI experience with animated transitions and real-time data fetching.",
     href: "https://github.com/TUSHARJHA001/HTML-CSS-JS-minipro/tree/main/WeatherApp",
-    image: "/Portfolio/assets/Weather.png",
+    image: "/Portfolio/assets/Weather.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#2563EB",
@@ -111,7 +111,7 @@ export const Projects = [
     subdesc:
       "Built using React.js and Tailwind CSS. It features a context-based state management system with `useContext`, persistent state through `localStorage`, and componentized architecture including form handling, item rendering, and inline editing with visual feedback. Users can add, edit, delete, and mark tasks as complete. The app provides a clean, responsive UI with conditional rendering for completed tasks and accessibility-focused design.",
     href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/ToDo",
-    image: "/Portfolio/assets/ToDo.png",
+    image: "/Portfolio/assets/ToDo.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#F59E0B",
@@ -133,7 +133,7 @@ export const Projects = [
     subdesc:
       "Built using HTML, Tailwind CSS, and JavaScript, this app leverages the Web Speech API for text-to-speech synthesis and an external API for language translation.",
     href: "https://github.com/TUSHARJHA001/HTML-CSS-JS-minipro/tree/main/TTS-TranslateApp",
-    image: "/Portfolio/assets/Translate.png",
+    image: "/Portfolio/assets/Translate.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#475569",
@@ -154,7 +154,7 @@ export const Projects = [
     subdesc:
       "Built using React.js, Tailwind CSS, and the Exchange Rate API, this application ensures efficiency and ease of use for travelers, traders, and financial analysts.",
     href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/CurrencyConvertor",
-    image: "/Portfolio/assets/Currenycon.png",
+    image: "/Portfolio/assets/Currenycon.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#10B981",
@@ -175,7 +175,7 @@ export const Projects = [
     subdesc:
       "Built using React.js and Tailwind CSS, this intuitive tool enables gacha gamers to plan their pulls efficiently by calculating probabilities and tracking their pity progress.",
     href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/GachaCalculator",
-    image: "/Portfolio/assets/HonkaiCalc.png",
+    image: "/Portfolio/assets/HonkaiCalc.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#22C55E",
@@ -196,7 +196,7 @@ export const Projects = [
     subdesc:
       "Built using React.js, TailwindCSS, GSAP animations, and QRCode support, this tool provides a visually appealing and efficient way to create and copy secure passwords.",
     href: "https://github.com/TUSHARJHA001/React_Projects/tree/main/src/Components/PasswordGenerator",
-    image: "/Portfolio/assets/Password.png",
+    image: "/Portfolio/assets/Password.webp",
     icon: "FaGithub",
     iconStyle: {
       color: "#10B981",
@@ -220,7 +220,7 @@ export const education = [
     marks: "CGPA (current semester): 8.13 / 10",
     name: "KIET Group of Institutions, Ghaziabad",
     year: "(2022 - 2026)",
-    image: "/Portfolio/assets/kiet-group-of-institutions.jpg",
+    image: "/Portfolio/assets/kiet-group-of-institutions.webp",
     description:
       "Pursuing B.Tech in Information Technology under Dr. A.P.J. Abdul Kalam Technical University (AKTU). The curriculum is designed to develop both theoretical knowledge and practical skills in core areas such as Data Structures and Algorithms, Operating Systems, Computer Networks, Software Engineering, DBMS, Artificial Intelligence, and Object-Oriented Programming using Java and C++. Specialized electives and certifications include Full Stack Web Development (MERN stack), Machine Learning with Python, and Cloud Computing on AWS and Microsoft Azure. Gained hands-on experience through multiple lab-based assessments and real-time projects including a Chat Application using Firebase and a Weather App using REST APIs. Participated in hackathons, coding challenges (CodeChef, LeetCode), and technical fests like 'InnoWave' and 'TechZest'. Also completed industry-recognized certifications from NPTEL, Coursera, and Google Cloud. Worked collaboratively in Agile environments on GitHub and contributed to open-source repositories.",
   },
@@ -231,7 +231,7 @@ export const education = [
     marks: "Percentage: 84.30%",
     name: "Bishop Conrad Sr. Sec. School",
     year: "2021",
-    image: "/Portfolio/assets/bishop.jpg",
+    image: "/Portfolio/assets/bishop.webp",
     description:
       "Completed senior secondary education under the CBSE board with core subjects in Physics, Chemistry, and Mathematics. Developed strong analytical, logical, and quantitative aptitude. Physics topics included Modern Physics, Optics, Electrostatics, and Mechanics; Chemistry included Thermodynamics, Organic Reaction Mechanisms, and the Periodic Table; Mathematics covered Integral & Differential Calculus, 3D Geometry, and Matrices. Participated in science exhibitions, quiz competitions, and Olympiads (National Science Olympiad and Math Olympiad). Engaged in basic C++ programming and introductory web design courses during this period, which sparked my interest in software development. Actively involved in the school's tech club and completed a school-level project on 'Solar-Powered Smart Irrigation System'.",
   },
@@ -242,7 +242,7 @@ export const education = [
     marks: "Percentage: 94%",
     name: "Bishop Conrad Sr. Sec. School",
     year: "2019",
-    image: "/Portfolio/assets/bishop.jpg",
+    image: "/Portfolio/assets/bishop.webp",
     description:
       "Completed CBSE 10th Grade with a distinction in Science, Mathematics, and Information Technology. This foundational stage introduced me to core scientific principles, logical problem-solving, and digital literacy. Science included practicals on chemical reactions, electricity, and life processes, while Mathematics focused on Geometry, Algebra, and Trigonometry. Developed early interest in computers through the IT subject which introduced HTML, MS Office, and basic programming logic. Consistently ranked among the top students and was awarded for academic excellence and discipline. Represented the school in inter-house debates, science fairs, and was actively involved in cultural and tech events that shaped my leadership and communication skills.",
   },
@@ -468,7 +468,7 @@ export const socialLinks = [
     name: "LinkedIn",
     icon: FaLinkedinIn,
     color: "#0077B5",
-    link: "https://www.linkedin.com/in/tushar-jha-29786125a/",
+    link: "https://www.linkedin.com/in/tushar-jha001/",
     bgColor: "hover:bg-blue-700",
     borderColor: "border-blue-600",
   },
@@ -484,7 +484,7 @@ export const footerSocialLinks = [
   {
     icon: "FaLinkedin",
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/tushar-jha-29786125a/",
+    href: "https://www.linkedin.com/in/tushar-jha001/",
     color: "hover:text-blue-500",
   },
   {
